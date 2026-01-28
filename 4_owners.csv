@@ -1,0 +1,501 @@
+Owner_ID,Owner_Name,Age,Gender,Occupation,Annual_Income_NPR,City,Phone,Email,Member_Since
+OWN0001,Sita Adhikari,47,Male,Teacher,2909477,Dailekh,9823334787,owner1@email.com,2023-06-26
+OWN0002,Saraswati Shrestha,34,Female,Government Employee,3113445,Tansen,9872573947,owner2@email.com,2022-07-15
+OWN0003,Deepak Tamang,47,Female,Entrepreneur,4484584,Nepalgunj,9889616368,owner3@email.com,2024-09-07
+OWN0004,Prakash Gurung,57,Female,Entrepreneur,1324187,Rajbiraj,9828418739,owner4@email.com,2024-06-18
+OWN0005,Shiva Khadka,36,Male,Doctor,2043421,Lalitpur,9850450073,owner5@email.com,2022-12-05
+OWN0006,Sunita Khadka,51,Female,Government Employee,1354716,Damak,9889968415,owner6@email.com,2023-08-03
+OWN0007,Binod Khadka,26,Female,Doctor,3646192,Lahan,9899303748,owner7@email.com,2023-02-09
+OWN0008,Rajesh Gurung,33,Female,Entrepreneur,806629,Dhulikhel,9849730919,owner8@email.com,2022-03-07
+OWN0009,Rajesh Rana,45,Female,Doctor,2850683,Madhyapur Thimi,9869941891,owner9@email.com,2024-02-23
+OWN0010,Anita Rana,45,Male,Entrepreneur,519048,Banepa,9872628686,owner10@email.com,2022-03-28
+OWN0011,Prakash Thapa,33,Male,Government Employee,4994610,Madhyapur Thimi,9826867311,owner11@email.com,2024-08-03
+OWN0012,Lakshmi Karki,50,Male,Government Employee,3417759,Tansen,9825388640,owner12@email.com,2022-02-08
+OWN0013,Lakshmi Tamang,59,Female,Doctor,1198575,Dailekh,9844504916,owner13@email.com,2024-07-15
+OWN0014,Sunita Rana,57,Male,Entrepreneur,1559681,Mechinagar,9883975141,owner14@email.com,2024-04-19
+OWN0015,Krishna Thapa,29,Female,Business Owner,1006703,Gorkha,9823275200,owner15@email.com,2023-05-28
+OWN0016,Rajesh Karki,58,Male,Business Owner,2100589,Damak,9873868824,owner16@email.com,2024-01-24
+OWN0017,Sunita Magar,26,Male,Government Employee,1147943,Birgunj,9880732080,owner17@email.com,2024-03-06
+OWN0018,Ram Tamang,27,Female,IT Professional,1169991,Bhaktapur,9840640456,owner18@email.com,2024-12-26
+OWN0019,Maya Sharma,49,Female,Engineer,4164382,Tansen,9863542029,owner19@email.com,2022-07-26
+OWN0020,Hari Tamang,50,Male,Doctor,3077201,Lahan,9842902735,owner20@email.com,2022-06-28
+OWN0021,Shiva Paudel,43,Male,Engineer,1333710,Dhangadhi,9884616278,owner21@email.com,2024-01-09
+OWN0022,Parvati Magar,53,Male,Business Owner,580409,Rajbiraj,9817869218,owner22@email.com,2022-06-06
+OWN0023,Ram Paudel,51,Female,Engineer,4941671,Lahan,9887434579,owner23@email.com,2023-10-01
+OWN0024,Suman Chaudhary,59,Female,Doctor,2970207,Lamjung,9823523446,owner24@email.com,2024-01-05
+OWN0025,Deepak Khadka,38,Female,Government Employee,3192300,Hetauda,9880363358,owner25@email.com,2022-10-07
+OWN0026,Rajesh Paudel,39,Female,Government Employee,915042,Dailekh,9819983044,owner26@email.com,2023-09-02
+OWN0027,Prakash Khadka,57,Female,Teacher,4892847,Mechinagar,9880568264,owner27@email.com,2024-05-26
+OWN0028,Ram Paudel,38,Male,Entrepreneur,3094872,Lahan,9848956357,owner28@email.com,2024-04-26
+OWN0029,Anita Adhikari,53,Male,Business Owner,1157604,Madhyapur Thimi,9848916113,owner29@email.com,2022-03-01
+OWN0030,Hari Rana,27,Male,Engineer,3823321,Damak,9861036187,owner30@email.com,2024-03-21
+OWN0031,Deepak Tamang,42,Male,Teacher,2884109,Panauti,9860284556,owner31@email.com,2023-05-24
+OWN0032,Anita Paudel,36,Male,IT Professional,2633374,Lahan,9810397479,owner32@email.com,2024-12-21
+OWN0033,Ganesh Karki,52,Male,Business Owner,3008989,Beni,9855365155,owner33@email.com,2024-11-04
+OWN0034,Binod Tamang,47,Female,Teacher,2547674,Beni,9836703071,owner34@email.com,2022-05-22
+OWN0035,Durga Adhikari,43,Female,Government Employee,3922861,Kirtipur,9839295611,owner35@email.com,2022-03-14
+OWN0036,Suman Sharma,39,Male,Private Employee,3886610,Gorkha,9844312510,owner36@email.com,2022-04-03
+OWN0037,Rajesh Magar,41,Male,IT Professional,1432697,Pokhara,9821291516,owner37@email.com,2024-11-30
+OWN0038,Krishna Paudel,28,Female,Engineer,3899199,Tikapur,9870461909,owner38@email.com,2022-08-08
+OWN0039,Suman Rana,35,Male,Doctor,1587603,Lamjung,9817564464,owner39@email.com,2024-05-23
+OWN0040,Lakshmi Chaudhary,44,Male,Business Owner,1632831,Baglung,9848360559,owner40@email.com,2024-04-19
+OWN0041,Saraswati Sharma,35,Female,Teacher,4744436,Jaleshwor,9885706465,owner41@email.com,2022-11-02
+OWN0042,Suman Chaudhary,57,Female,IT Professional,2903651,Dharan,9845457444,owner42@email.com,2024-09-22
+OWN0043,Saraswati Shrestha,32,Male,Teacher,4510906,Panauti,9866420553,owner43@email.com,2022-06-07
+OWN0044,Saraswati Magar,59,Female,Entrepreneur,571023,Damak,9815933695,owner44@email.com,2022-05-05
+OWN0045,Ganesh Tamang,36,Female,Government Employee,1460722,Lamjung,9891022718,owner45@email.com,2023-02-21
+OWN0046,Shiva Rana,45,Male,Engineer,3545373,Beni,9882421614,owner46@email.com,2023-08-09
+OWN0047,Sita Rana,48,Female,Government Employee,1035619,Bhairahawa,9810072072,owner47@email.com,2024-06-04
+OWN0048,Anita Magar,50,Male,Engineer,4756702,Baglung,9810356215,owner48@email.com,2023-11-04
+OWN0049,Prakash Rana,60,Male,Entrepreneur,3789941,Pokhara,9826096229,owner49@email.com,2023-11-10
+OWN0050,Hari Chaudhary,32,Male,Engineer,2303003,Madhyapur Thimi,9871090511,owner50@email.com,2022-04-30
+OWN0051,Shiva Shrestha,51,Female,Teacher,3701779,Jumla,9861542272,owner51@email.com,2022-11-29
+OWN0052,Suman Shrestha,41,Male,Engineer,4840458,Pokhara,9882129492,owner52@email.com,2023-11-18
+OWN0053,Sita Sharma,46,Male,Private Employee,4223251,Waling,9894068175,owner53@email.com,2022-08-03
+OWN0054,Durga Adhikari,38,Female,Entrepreneur,585057,Janakpur,9886300320,owner54@email.com,2023-12-06
+OWN0055,Prakash Karki,60,Female,Government Employee,1682448,Lahan,9828752445,owner55@email.com,2022-07-02
+OWN0056,Parvati Karki,55,Female,Doctor,2894377,Nepalgunj,9880851282,owner56@email.com,2023-10-21
+OWN0057,Krishna Chaudhary,37,Female,Doctor,1284710,Butwal,9811350347,owner57@email.com,2024-03-16
+OWN0058,Prakash Rana,52,Female,Teacher,3559749,Attariya,9861257503,owner58@email.com,2023-12-24
+OWN0059,Prakash Magar,41,Male,Doctor,3505663,Itahari,9833585467,owner59@email.com,2022-03-16
+OWN0060,Rajesh Magar,27,Male,Entrepreneur,3956487,Lamjung,9875909318,owner60@email.com,2022-06-06
+OWN0061,Shiva Tamang,44,Female,Business Owner,1387048,Hetauda,9896683973,owner61@email.com,2024-07-27
+OWN0062,Deepak Tamang,29,Male,IT Professional,1820400,Madhyapur Thimi,9847219799,owner62@email.com,2023-02-14
+OWN0063,Parvati Karki,46,Male,Doctor,3203551,Lalitpur,9889160083,owner63@email.com,2022-01-07
+OWN0064,Binod Rana,43,Male,Engineer,3477892,Dhangadhi,9840740292,owner64@email.com,2023-06-14
+OWN0065,Ganesh Magar,33,Male,Business Owner,1445001,Dharan,9832908749,owner65@email.com,2023-11-21
+OWN0066,Rajesh Gurung,33,Female,Private Employee,3824548,Lamjung,9829788414,owner66@email.com,2022-05-29
+OWN0067,Sita Adhikari,36,Male,IT Professional,1457780,Birtamod,9837044880,owner67@email.com,2023-04-22
+OWN0068,Hari Gurung,31,Male,Engineer,1951274,Bhairahawa,9875548171,owner68@email.com,2024-03-13
+OWN0069,Ram Thapa,58,Female,IT Professional,4683558,Kirtipur,9819505198,owner69@email.com,2023-02-14
+OWN0070,Saraswati Sharma,47,Male,IT Professional,889369,Waling,9848738403,owner70@email.com,2022-06-09
+OWN0071,Maya Chaudhary,54,Female,Entrepreneur,3912789,Lalitpur,9867323539,owner71@email.com,2024-07-07
+OWN0072,Rajesh Sharma,55,Male,Business Owner,2726883,Bhairahawa,9875183614,owner72@email.com,2023-02-26
+OWN0073,Ram Magar,37,Female,Doctor,2490787,Birendranagar,9851985376,owner73@email.com,2022-09-23
+OWN0074,Deepak Thapa,28,Female,Engineer,2852063,Kapilvastu,9825570486,owner74@email.com,2022-04-02
+OWN0075,Sunita Sharma,25,Female,Entrepreneur,3437091,Bhairahawa,9882274426,owner75@email.com,2022-03-14
+OWN0076,Prakash Rana,42,Male,Business Owner,1549896,Itahari,9844499575,owner76@email.com,2022-06-21
+OWN0077,Maya Gurung,46,Female,Business Owner,3063341,Panauti,9887292069,owner77@email.com,2023-01-13
+OWN0078,Rajesh Gurung,46,Male,Business Owner,2510453,Bhaktapur,9886503173,owner78@email.com,2024-10-04
+OWN0079,Shiva Khadka,27,Female,Teacher,1987360,Tansen,9846057526,owner79@email.com,2023-01-16
+OWN0080,Anita Adhikari,52,Male,Engineer,3633879,Janakpur,9831630139,owner80@email.com,2023-05-11
+OWN0081,Binod Tamang,57,Female,Doctor,4575750,Dharan,9834057249,owner81@email.com,2023-10-26
+OWN0082,Rajesh Khadka,48,Female,Private Employee,4058605,Attariya,9810043364,owner82@email.com,2023-05-12
+OWN0083,Deepak Gurung,36,Male,Engineer,805456,Dhangadhi,9880304302,owner83@email.com,2024-05-21
+OWN0084,Durga Rana,37,Female,Doctor,1542746,Attariya,9862404575,owner84@email.com,2023-02-14
+OWN0085,Binod Thapa,44,Male,Doctor,2573272,Nepalgunj,9852181668,owner85@email.com,2024-02-01
+OWN0086,Shiva Paudel,36,Male,Doctor,3013127,Butwal,9852654187,owner86@email.com,2024-12-21
+OWN0087,Anita Thapa,52,Male,IT Professional,2550792,Panauti,9870517036,owner87@email.com,2023-12-12
+OWN0088,Ganesh Shrestha,30,Female,Doctor,4918355,Janakpur,9821357631,owner88@email.com,2022-10-21
+OWN0089,Shiva Adhikari,50,Female,IT Professional,2799702,Dhangadhi,9862354570,owner89@email.com,2023-05-22
+OWN0090,Anita Rana,56,Female,IT Professional,2944022,Nepalgunj,9866693720,owner90@email.com,2022-10-23
+OWN0091,Anita Paudel,57,Female,Private Employee,3816745,Lamjung,9831256803,owner91@email.com,2023-09-05
+OWN0092,Maya Gurung,40,Male,Engineer,3333933,Lahan,9867155280,owner92@email.com,2024-11-14
+OWN0093,Parvati Tamang,54,Female,Government Employee,3447934,Tansen,9831135252,owner93@email.com,2022-03-28
+OWN0094,Sita Karki,37,Female,IT Professional,2247044,Kirtipur,9886699808,owner94@email.com,2022-07-01
+OWN0095,Shiva Chaudhary,32,Male,Government Employee,2337817,Waling,9899968676,owner95@email.com,2023-10-06
+OWN0096,Anita Sharma,47,Female,IT Professional,4238429,Jaleshwor,9876414340,owner96@email.com,2024-10-12
+OWN0097,Krishna Sharma,50,Male,Government Employee,2068596,Biratnagar,9838348194,owner97@email.com,2023-06-21
+OWN0098,Rajesh Paudel,38,Female,Private Employee,1806896,Tansen,9885837520,owner98@email.com,2023-07-17
+OWN0099,Prakash Rana,60,Female,Entrepreneur,4961101,Tansen,9850538525,owner99@email.com,2024-09-17
+OWN0100,Hari Sharma,55,Male,Engineer,865552,Biratnagar,9843313487,owner100@email.com,2024-03-05
+OWN0101,Binod Magar,30,Male,Entrepreneur,4831911,Gaur,9843138333,owner101@email.com,2022-05-26
+OWN0102,Ganesh Shrestha,47,Female,Business Owner,655686,Kapilvastu,9866384893,owner102@email.com,2022-06-29
+OWN0103,Maya Khadka,42,Female,Government Employee,605896,Tansen,9838824322,owner103@email.com,2024-03-12
+OWN0104,Suman Khadka,49,Male,Doctor,3920367,Panauti,9848956844,owner104@email.com,2022-08-16
+OWN0105,Sita Khadka,56,Male,IT Professional,3509672,Biratnagar,9877397153,owner105@email.com,2022-10-25
+OWN0106,Sunita Karki,46,Male,Private Employee,2270042,Waling,9812622849,owner106@email.com,2023-07-09
+OWN0107,Binod Sharma,52,Male,Government Employee,2932558,Kirtipur,9813971316,owner107@email.com,2022-04-16
+OWN0108,Krishna Shrestha,36,Male,Doctor,1280874,Gorkha,9831161172,owner108@email.com,2022-03-08
+OWN0109,Durga Sharma,46,Male,Teacher,3959061,Kathmandu,9822193803,owner109@email.com,2023-03-08
+OWN0110,Prakash Tamang,25,Female,Government Employee,3439756,Lahan,9851280047,owner110@email.com,2022-01-02
+OWN0111,Parvati Sharma,26,Female,Teacher,2756437,Tikapur,9853213562,owner111@email.com,2022-08-28
+OWN0112,Anita Gurung,39,Male,Doctor,3092891,Mechinagar,9870207666,owner112@email.com,2022-08-01
+OWN0113,Prakash Khadka,39,Female,Engineer,2192583,Waling,9812291012,owner113@email.com,2024-07-06
+OWN0114,Binod Thapa,37,Female,Private Employee,2215268,Lalitpur,9874951841,owner114@email.com,2024-05-29
+OWN0115,Ram Gurung,46,Female,Business Owner,3357825,Dhangadhi,9821791205,owner115@email.com,2024-07-18
+OWN0116,Hari Chaudhary,56,Female,Government Employee,1611402,Gaur,9827885515,owner116@email.com,2024-05-08
+OWN0117,Hari Gurung,40,Female,Government Employee,3456962,Birtamod,9839610692,owner117@email.com,2024-05-30
+OWN0118,Krishna Thapa,30,Male,Private Employee,3066430,Bhaktapur,9891843873,owner118@email.com,2023-09-15
+OWN0119,Deepak Tamang,30,Male,Teacher,2473855,Attariya,9898795337,owner119@email.com,2024-03-02
+OWN0120,Saraswati Sharma,52,Male,Engineer,4821504,Dharan,9849704501,owner120@email.com,2024-01-02
+OWN0121,Prakash Rana,39,Female,Government Employee,4304838,Rajbiraj,9836271626,owner121@email.com,2022-11-12
+OWN0122,Parvati Paudel,36,Female,Doctor,3790947,Rajbiraj,9894447764,owner122@email.com,2022-05-26
+OWN0123,Anita Karki,45,Female,Government Employee,3759100,Bhairahawa,9827373186,owner123@email.com,2024-10-03
+OWN0124,Deepak Rana,41,Female,Doctor,4536567,Kapilvastu,9825257910,owner124@email.com,2024-08-30
+OWN0125,Suman Sharma,52,Male,Teacher,4031500,Madhyapur Thimi,9890450284,owner125@email.com,2022-08-25
+OWN0126,Rajesh Adhikari,59,Female,Doctor,3404773,Birgunj,9860531711,owner126@email.com,2024-08-30
+OWN0127,Krishna Rana,35,Male,IT Professional,1594711,Rajbiraj,9862207928,owner127@email.com,2024-02-12
+OWN0128,Sita Adhikari,53,Female,IT Professional,3140437,Baglung,9823532460,owner128@email.com,2023-06-13
+OWN0129,Suman Gurung,52,Male,Entrepreneur,1341036,Panauti,9829736762,owner129@email.com,2023-12-19
+OWN0130,Krishna Paudel,49,Female,Entrepreneur,1415023,Gorkha,9823759871,owner130@email.com,2024-12-18
+OWN0131,Durga Adhikari,28,Male,Engineer,610124,Birgunj,9859021135,owner131@email.com,2024-08-07
+OWN0132,Sunita Paudel,49,Male,Doctor,2656863,Tansen,9885392489,owner132@email.com,2024-07-15
+OWN0133,Binod Karki,52,Male,Entrepreneur,3409163,Panauti,9867741061,owner133@email.com,2022-01-30
+OWN0134,Parvati Shrestha,30,Male,Private Employee,844406,Hetauda,9875669900,owner134@email.com,2023-12-11
+OWN0135,Saraswati Rana,39,Male,Doctor,1602947,Itahari,9857455136,owner135@email.com,2022-09-30
+OWN0136,Anita Shrestha,43,Female,Entrepreneur,3067221,Lahan,9866813607,owner136@email.com,2022-08-27
+OWN0137,Rajesh Adhikari,58,Female,Government Employee,711030,Birendranagar,9823158366,owner137@email.com,2023-05-16
+OWN0138,Deepak Chaudhary,56,Female,Entrepreneur,4207043,Lalitpur,9881949383,owner138@email.com,2024-08-26
+OWN0139,Parvati Magar,35,Female,Private Employee,3504186,Attariya,9814449092,owner139@email.com,2024-12-07
+OWN0140,Parvati Rana,42,Female,IT Professional,1837748,Lalitpur,9837783977,owner140@email.com,2024-03-09
+OWN0141,Binod Tamang,58,Male,Entrepreneur,4844253,Gaur,9896410026,owner141@email.com,2024-08-21
+OWN0142,Ram Shrestha,29,Female,Private Employee,3087385,Bharatpur,9843683177,owner142@email.com,2023-11-15
+OWN0143,Hari Magar,45,Male,Entrepreneur,1851788,Birendranagar,9872544182,owner143@email.com,2024-04-15
+OWN0144,Ram Magar,27,Male,Engineer,1281230,Madhyapur Thimi,9826096776,owner144@email.com,2022-02-14
+OWN0145,Lakshmi Thapa,51,Female,Business Owner,1062608,Lahan,9860561768,owner145@email.com,2024-02-02
+OWN0146,Shiva Thapa,58,Female,Private Employee,830416,Lamjung,9855943387,owner146@email.com,2023-10-21
+OWN0147,Lakshmi Shrestha,44,Male,Engineer,1242428,Birendranagar,9881046491,owner147@email.com,2024-04-25
+OWN0148,Anita Magar,45,Female,Doctor,4845357,Tikapur,9854674424,owner148@email.com,2023-10-18
+OWN0149,Durga Paudel,43,Male,Entrepreneur,1648148,Lalitpur,9832616302,owner149@email.com,2022-05-10
+OWN0150,Sunita Adhikari,41,Male,Doctor,3610100,Butwal,9884786101,owner150@email.com,2023-08-10
+OWN0151,Krishna Shrestha,30,Male,Business Owner,4167386,Birtamod,9823201798,owner151@email.com,2024-03-04
+OWN0152,Parvati Khadka,34,Female,Doctor,1414406,Panauti,9837682562,owner152@email.com,2022-05-27
+OWN0153,Binod Khadka,60,Female,Entrepreneur,4708047,Mahendranagar,9854498557,owner153@email.com,2023-10-10
+OWN0154,Deepak Rana,38,Female,Business Owner,2970352,Biratnagar,9899033994,owner154@email.com,2024-04-19
+OWN0155,Deepak Sharma,51,Male,IT Professional,1153522,Birgunj,9872840606,owner155@email.com,2022-10-17
+OWN0156,Ram Karki,51,Female,Engineer,3883040,Kirtipur,9899255948,owner156@email.com,2022-07-16
+OWN0157,Durga Gurung,45,Male,Business Owner,3738552,Nepalgunj,9876536419,owner157@email.com,2023-07-22
+OWN0158,Binod Tamang,29,Male,Government Employee,2547044,Tulsipur,9824390636,owner158@email.com,2023-09-15
+OWN0159,Durga Paudel,46,Female,Engineer,4821136,Dhangadhi,9836355276,owner159@email.com,2023-10-12
+OWN0160,Durga Adhikari,50,Female,Government Employee,1327948,Hetauda,9828625906,owner160@email.com,2024-10-29
+OWN0161,Ram Sharma,25,Female,Doctor,4051498,Birtamod,9825675935,owner161@email.com,2023-07-06
+OWN0162,Sita Karki,47,Male,Private Employee,4644575,Attariya,9853058759,owner162@email.com,2022-05-12
+OWN0163,Anita Rana,29,Male,Government Employee,3705101,Gaur,9865407690,owner163@email.com,2023-07-14
+OWN0164,Ganesh Magar,55,Female,Doctor,932909,Panauti,9882477609,owner164@email.com,2023-05-03
+OWN0165,Krishna Adhikari,43,Male,Private Employee,4683618,Bhaktapur,9812319055,owner165@email.com,2023-11-05
+OWN0166,Binod Thapa,46,Female,Private Employee,1422212,Tansen,9811017943,owner166@email.com,2022-01-07
+OWN0167,Rajesh Sharma,37,Male,Engineer,4494350,Tulsipur,9860629582,owner167@email.com,2023-05-26
+OWN0168,Binod Magar,43,Female,Doctor,4434928,Bhaktapur,9856071979,owner168@email.com,2023-12-28
+OWN0169,Hari Paudel,26,Male,Private Employee,744583,Jumla,9817900830,owner169@email.com,2022-03-11
+OWN0170,Rajesh Gurung,47,Female,IT Professional,2712596,Baglung,9810672251,owner170@email.com,2023-01-17
+OWN0171,Ram Chaudhary,44,Female,Government Employee,1388952,Dharan,9884405058,owner171@email.com,2023-09-11
+OWN0172,Parvati Rana,40,Male,Engineer,1654866,Dharan,9866193619,owner172@email.com,2022-06-19
+OWN0173,Binod Shrestha,60,Female,Entrepreneur,4715441,Tansen,9899139304,owner173@email.com,2022-10-05
+OWN0174,Parvati Paudel,29,Female,Private Employee,840007,Kirtipur,9848821327,owner174@email.com,2024-03-01
+OWN0175,Saraswati Tamang,28,Female,Engineer,4346941,Kathmandu,9899799048,owner175@email.com,2024-06-16
+OWN0176,Lakshmi Rana,58,Male,Doctor,4260775,Banepa,9840025703,owner176@email.com,2022-02-15
+OWN0177,Sita Thapa,52,Male,Business Owner,1252763,Butwal,9867668603,owner177@email.com,2022-01-16
+OWN0178,Anita Karki,41,Female,Doctor,1350669,Dailekh,9846177678,owner178@email.com,2023-09-07
+OWN0179,Ganesh Tamang,55,Female,IT Professional,3709927,Gaur,9827749439,owner179@email.com,2022-07-10
+OWN0180,Sunita Paudel,40,Female,Doctor,1336989,Birgunj,9846299641,owner180@email.com,2022-12-19
+OWN0181,Anita Gurung,30,Female,Entrepreneur,4552391,Birgunj,9860944355,owner181@email.com,2022-02-06
+OWN0182,Durga Gurung,31,Male,Engineer,4401818,Pokhara,9868374274,owner182@email.com,2023-01-30
+OWN0183,Sita Shrestha,36,Male,Engineer,3368657,Biratnagar,9876652486,owner183@email.com,2022-10-22
+OWN0184,Maya Tamang,49,Male,Teacher,3888031,Bharatpur,9898483068,owner184@email.com,2024-08-27
+OWN0185,Binod Rana,55,Female,Entrepreneur,2709740,Butwal,9854716413,owner185@email.com,2023-09-09
+OWN0186,Krishna Gurung,36,Female,Doctor,2235953,Bhaktapur,9870377390,owner186@email.com,2024-04-10
+OWN0187,Ram Paudel,57,Female,IT Professional,3924771,Kirtipur,9812779293,owner187@email.com,2024-12-27
+OWN0188,Krishna Gurung,40,Female,Engineer,1199561,Pokhara,9815544871,owner188@email.com,2022-05-12
+OWN0189,Lakshmi Gurung,35,Male,Government Employee,3121649,Itahari,9873381643,owner189@email.com,2023-11-30
+OWN0190,Sunita Shrestha,52,Female,Teacher,1284925,Tulsipur,9818832246,owner190@email.com,2024-06-18
+OWN0191,Lakshmi Thapa,45,Female,IT Professional,2437538,Damak,9872114774,owner191@email.com,2022-07-31
+OWN0192,Binod Paudel,36,Female,IT Professional,1603376,Kapilvastu,9828732860,owner192@email.com,2023-10-14
+OWN0193,Rajesh Thapa,28,Male,Business Owner,4767415,Kathmandu,9887719776,owner193@email.com,2022-01-24
+OWN0194,Hari Karki,59,Male,Teacher,613557,Birgunj,9834448646,owner194@email.com,2023-10-05
+OWN0195,Lakshmi Tamang,58,Female,IT Professional,898731,Mahendranagar,9837275404,owner195@email.com,2024-09-11
+OWN0196,Saraswati Paudel,31,Male,IT Professional,1149937,Hetauda,9885033246,owner196@email.com,2022-03-12
+OWN0197,Saraswati Chaudhary,60,Male,Government Employee,570327,Hetauda,9886507809,owner197@email.com,2024-02-20
+OWN0198,Ram Magar,54,Female,Government Employee,520212,Tansen,9812443893,owner198@email.com,2023-12-07
+OWN0199,Sunita Shrestha,58,Female,Government Employee,706510,Itahari,9822245226,owner199@email.com,2024-08-06
+OWN0200,Binod Gurung,40,Female,Business Owner,4537548,Damak,9814451891,owner200@email.com,2023-05-18
+OWN0201,Ganesh Karki,32,Female,Private Employee,2617722,Kathmandu,9852794947,owner201@email.com,2023-09-16
+OWN0202,Durga Karki,56,Female,Business Owner,3814850,Tulsipur,9897251190,owner202@email.com,2024-01-08
+OWN0203,Lakshmi Magar,44,Male,IT Professional,1047165,Banepa,9835666838,owner203@email.com,2024-09-05
+OWN0204,Shiva Chaudhary,40,Female,Teacher,2069792,Gorkha,9847792173,owner204@email.com,2023-12-08
+OWN0205,Maya Shrestha,52,Female,Business Owner,1216731,Butwal,9845872036,owner205@email.com,2022-11-10
+OWN0206,Binod Khadka,27,Male,Business Owner,598995,Waling,9898849943,owner206@email.com,2024-09-30
+OWN0207,Ram Magar,59,Female,Entrepreneur,1247345,Banepa,9812553006,owner207@email.com,2024-06-09
+OWN0208,Ganesh Adhikari,42,Female,Government Employee,1312825,Bharatpur,9831624720,owner208@email.com,2023-07-07
+OWN0209,Prakash Shrestha,43,Female,Doctor,3097495,Tikapur,9815788000,owner209@email.com,2024-10-23
+OWN0210,Hari Chaudhary,44,Female,Business Owner,2588820,Nepalgunj,9880455607,owner210@email.com,2023-01-20
+OWN0211,Parvati Gurung,53,Male,Teacher,1968480,Damak,9898208016,owner211@email.com,2024-04-19
+OWN0212,Saraswati Shrestha,28,Male,IT Professional,1941485,Rajbiraj,9823391136,owner212@email.com,2022-07-28
+OWN0213,Sita Khadka,58,Male,Entrepreneur,4888736,Pokhara,9880723086,owner213@email.com,2022-03-26
+OWN0214,Hari Rana,42,Female,Engineer,976508,Birgunj,9894367713,owner214@email.com,2024-01-18
+OWN0215,Shiva Sharma,58,Female,Engineer,1543952,Mechinagar,9838642607,owner215@email.com,2022-11-20
+OWN0216,Ram Adhikari,32,Female,Government Employee,1078590,Itahari,9872221249,owner216@email.com,2024-01-24
+OWN0217,Deepak Tamang,59,Female,Private Employee,4423864,Butwal,9845038332,owner217@email.com,2023-05-28
+OWN0218,Suman Rana,52,Female,Teacher,3770330,Madhyapur Thimi,9896014673,owner218@email.com,2023-06-16
+OWN0219,Shiva Magar,56,Female,Private Employee,4627666,Madhyapur Thimi,9855328487,owner219@email.com,2022-07-25
+OWN0220,Binod Adhikari,58,Male,Doctor,3684946,Birgunj,9881052881,owner220@email.com,2023-01-14
+OWN0221,Prakash Rana,43,Male,IT Professional,2689709,Dailekh,9866865479,owner221@email.com,2022-05-31
+OWN0222,Parvati Chaudhary,56,Male,Engineer,3875597,Dailekh,9851521160,owner222@email.com,2023-07-31
+OWN0223,Parvati Khadka,47,Male,Business Owner,2886577,Attariya,9835110368,owner223@email.com,2022-03-16
+OWN0224,Ram Paudel,60,Female,Business Owner,2201565,Bhairahawa,9816092735,owner224@email.com,2023-06-23
+OWN0225,Deepak Magar,58,Female,Engineer,2781751,Gaur,9881406752,owner225@email.com,2024-12-14
+OWN0226,Ganesh Karki,34,Male,Teacher,4299584,Damak,9894323226,owner226@email.com,2023-02-25
+OWN0227,Sita Rana,45,Female,Business Owner,1423698,Lamjung,9858896650,owner227@email.com,2022-06-17
+OWN0228,Rajesh Tamang,40,Male,Teacher,4699685,Bharatpur,9839656906,owner228@email.com,2023-11-12
+OWN0229,Durga Tamang,42,Male,Business Owner,2400110,Mahendranagar,9834311531,owner229@email.com,2022-11-04
+OWN0230,Hari Gurung,33,Female,Private Employee,3705602,Damak,9873543137,owner230@email.com,2023-11-08
+OWN0231,Saraswati Karki,39,Male,Government Employee,4887668,Tulsipur,9817522689,owner231@email.com,2022-04-12
+OWN0232,Saraswati Khadka,39,Male,IT Professional,4593998,Itahari,9876633548,owner232@email.com,2023-08-05
+OWN0233,Krishna Khadka,35,Female,Government Employee,3392280,Lalitpur,9864281350,owner233@email.com,2023-06-26
+OWN0234,Parvati Chaudhary,58,Male,IT Professional,4027734,Gaur,9873478151,owner234@email.com,2024-01-22
+OWN0235,Binod Chaudhary,35,Male,Business Owner,1096278,Butwal,9870794994,owner235@email.com,2024-04-28
+OWN0236,Sunita Gurung,50,Male,Business Owner,2398450,Rajbiraj,9889086806,owner236@email.com,2023-07-31
+OWN0237,Parvati Karki,60,Female,Government Employee,2530745,Birendranagar,9842646191,owner237@email.com,2023-02-21
+OWN0238,Deepak Paudel,37,Female,Entrepreneur,4437774,Kirtipur,9828519508,owner238@email.com,2023-02-03
+OWN0239,Ram Khadka,45,Male,Government Employee,4946456,Madhyapur Thimi,9850541542,owner239@email.com,2023-10-18
+OWN0240,Prakash Sharma,32,Male,Doctor,4248452,Birendranagar,9844210922,owner240@email.com,2024-05-24
+OWN0241,Binod Gurung,28,Female,Business Owner,4865036,Birtamod,9812949621,owner241@email.com,2022-04-04
+OWN0242,Shiva Shrestha,52,Female,IT Professional,4199355,Birgunj,9872137806,owner242@email.com,2024-03-23
+OWN0243,Durga Thapa,54,Male,Doctor,500081,Hetauda,9897270682,owner243@email.com,2024-05-13
+OWN0244,Ganesh Adhikari,33,Male,IT Professional,2598148,Hetauda,9817572246,owner244@email.com,2022-06-15
+OWN0245,Hari Magar,26,Female,Teacher,2855669,Jaleshwor,9898844959,owner245@email.com,2022-09-18
+OWN0246,Prakash Thapa,48,Female,Teacher,4981921,Lahan,9883586964,owner246@email.com,2023-11-06
+OWN0247,Hari Karki,50,Male,Government Employee,1918871,Gaur,9829215835,owner247@email.com,2022-10-22
+OWN0248,Saraswati Karki,44,Male,Government Employee,913395,Lahan,9877217371,owner248@email.com,2024-11-17
+OWN0249,Shiva Shrestha,46,Female,Private Employee,4294174,Waling,9899494747,owner249@email.com,2022-07-31
+OWN0250,Binod Tamang,58,Male,Business Owner,1712718,Lalitpur,9897511846,owner250@email.com,2022-12-28
+OWN0251,Saraswati Rana,50,Female,Government Employee,1347272,Baglung,9870867916,owner251@email.com,2024-04-19
+OWN0252,Ram Chaudhary,30,Female,Engineer,4068185,Birendranagar,9838367106,owner252@email.com,2023-04-22
+OWN0253,Deepak Karki,25,Male,Private Employee,1852082,Jaleshwor,9843787630,owner253@email.com,2022-08-17
+OWN0254,Sita Gurung,50,Female,Doctor,987887,Baglung,9890794855,owner254@email.com,2022-02-25
+OWN0255,Hari Adhikari,52,Male,IT Professional,657329,Tikapur,9899954226,owner255@email.com,2024-02-29
+OWN0256,Sunita Thapa,30,Female,Entrepreneur,4848410,Dhulikhel,9850883377,owner256@email.com,2024-09-21
+OWN0257,Rajesh Shrestha,28,Male,Teacher,3903078,Gaur,9831559424,owner257@email.com,2022-07-17
+OWN0258,Hari Gurung,55,Female,Business Owner,1514162,Janakpur,9888551924,owner258@email.com,2022-09-11
+OWN0259,Krishna Khadka,38,Female,Private Employee,3468684,Janakpur,9862266179,owner259@email.com,2023-07-14
+OWN0260,Shiva Tamang,49,Male,Entrepreneur,3613316,Tulsipur,9869245714,owner260@email.com,2023-03-10
+OWN0261,Ganesh Khadka,36,Male,Private Employee,3285686,Gaur,9857500934,owner261@email.com,2023-05-30
+OWN0262,Prakash Thapa,37,Female,Engineer,4152190,Lahan,9813675239,owner262@email.com,2023-07-02
+OWN0263,Lakshmi Sharma,30,Male,Government Employee,2301095,Gaur,9864805703,owner263@email.com,2022-06-03
+OWN0264,Lakshmi Paudel,35,Male,IT Professional,3177580,Waling,9877819656,owner264@email.com,2022-07-02
+OWN0265,Sita Tamang,60,Male,Engineer,1975953,Nepalgunj,9813362829,owner265@email.com,2023-11-22
+OWN0266,Maya Chaudhary,50,Female,Government Employee,3752786,Banepa,9812941021,owner266@email.com,2024-05-28
+OWN0267,Sunita Paudel,40,Female,Engineer,4969393,Dharan,9857828604,owner267@email.com,2023-04-22
+OWN0268,Ram Tamang,45,Male,Government Employee,3441862,Baglung,9825933809,owner268@email.com,2024-01-05
+OWN0269,Maya Magar,32,Female,Doctor,2899418,Hetauda,9886474345,owner269@email.com,2022-02-24
+OWN0270,Deepak Khadka,54,Female,IT Professional,4087502,Madhyapur Thimi,9848757203,owner270@email.com,2022-09-30
+OWN0271,Deepak Thapa,27,Female,Private Employee,2950623,Kirtipur,9892932049,owner271@email.com,2023-12-06
+OWN0272,Prakash Karki,43,Female,Engineer,2327930,Madhyapur Thimi,9890416404,owner272@email.com,2022-11-30
+OWN0273,Shiva Gurung,30,Male,Teacher,3338049,Lalitpur,9893510573,owner273@email.com,2022-09-29
+OWN0274,Anita Chaudhary,57,Female,Entrepreneur,1015905,Hetauda,9853948389,owner274@email.com,2023-08-03
+OWN0275,Anita Khadka,45,Male,Engineer,1840796,Gorkha,9826355406,owner275@email.com,2024-04-14
+OWN0276,Saraswati Shrestha,57,Male,Entrepreneur,3941417,Lahan,9884965059,owner276@email.com,2023-02-17
+OWN0277,Ram Tamang,26,Male,Business Owner,4601804,Mahendranagar,9844157146,owner277@email.com,2024-08-18
+OWN0278,Prakash Thapa,42,Male,Entrepreneur,4987601,Mechinagar,9830173834,owner278@email.com,2022-03-05
+OWN0279,Rajesh Paudel,27,Male,Government Employee,2139345,Kirtipur,9868607073,owner279@email.com,2023-12-02
+OWN0280,Saraswati Chaudhary,59,Male,Entrepreneur,1215446,Mahendranagar,9852234217,owner280@email.com,2024-04-14
+OWN0281,Anita Paudel,38,Female,Teacher,928565,Kathmandu,9861217390,owner281@email.com,2024-11-15
+OWN0282,Sita Chaudhary,33,Male,Engineer,4056759,Waling,9872944893,owner282@email.com,2022-01-28
+OWN0283,Krishna Rana,60,Female,Private Employee,2727271,Birtamod,9889910937,owner283@email.com,2024-04-11
+OWN0284,Saraswati Chaudhary,51,Female,Engineer,2936735,Tulsipur,9887140694,owner284@email.com,2023-03-07
+OWN0285,Sita Adhikari,31,Female,IT Professional,2229881,Tikapur,9834120899,owner285@email.com,2023-06-18
+OWN0286,Durga Magar,60,Female,Entrepreneur,3809717,Lahan,9887168526,owner286@email.com,2023-04-18
+OWN0287,Suman Thapa,47,Male,Private Employee,3054850,Kirtipur,9884417603,owner287@email.com,2024-10-02
+OWN0288,Ganesh Khadka,50,Female,Private Employee,4060973,Bhaktapur,9816807315,owner288@email.com,2023-01-12
+OWN0289,Deepak Sharma,27,Male,Business Owner,881831,Beni,9895065840,owner289@email.com,2022-07-14
+OWN0290,Hari Adhikari,46,Male,Teacher,1665264,Hetauda,9821158670,owner290@email.com,2023-07-14
+OWN0291,Sunita Khadka,46,Female,Private Employee,2612926,Bhaktapur,9886097627,owner291@email.com,2024-11-29
+OWN0292,Durga Shrestha,42,Male,Government Employee,4539822,Beni,9812502204,owner292@email.com,2024-11-27
+OWN0293,Ganesh Sharma,31,Male,Entrepreneur,4467284,Tansen,9837853357,owner293@email.com,2023-09-17
+OWN0294,Binod Chaudhary,58,Male,Government Employee,885780,Beni,9811988056,owner294@email.com,2022-11-05
+OWN0295,Anita Paudel,44,Female,Teacher,4078663,Madhyapur Thimi,9818752222,owner295@email.com,2022-10-05
+OWN0296,Sita Gurung,44,Female,Government Employee,3593347,Jumla,9860993044,owner296@email.com,2024-03-27
+OWN0297,Prakash Magar,35,Female,Teacher,2385417,Pokhara,9850912721,owner297@email.com,2022-04-08
+OWN0298,Saraswati Adhikari,50,Female,Engineer,3792597,Butwal,9878712310,owner298@email.com,2024-07-09
+OWN0299,Prakash Shrestha,29,Male,Business Owner,4773339,Janakpur,9814052886,owner299@email.com,2022-11-29
+OWN0300,Binod Adhikari,30,Female,Doctor,2681750,Mechinagar,9883822585,owner300@email.com,2023-07-25
+OWN0301,Ganesh Shrestha,35,Female,Private Employee,1441122,Biratnagar,9891666084,owner301@email.com,2023-04-16
+OWN0302,Parvati Sharma,58,Female,Teacher,1550752,Janakpur,9871955825,owner302@email.com,2023-03-20
+OWN0303,Suman Khadka,60,Male,Government Employee,3885006,Hetauda,9825249452,owner303@email.com,2022-08-01
+OWN0304,Shiva Shrestha,28,Male,Doctor,2628355,Dhangadhi,9823686277,owner304@email.com,2023-02-21
+OWN0305,Binod Paudel,46,Male,Business Owner,2986685,Gorkha,9871837401,owner305@email.com,2023-01-10
+OWN0306,Prakash Gurung,45,Male,Entrepreneur,2771528,Attariya,9894623641,owner306@email.com,2024-06-19
+OWN0307,Binod Gurung,48,Male,Private Employee,3151755,Baglung,9855138483,owner307@email.com,2023-07-31
+OWN0308,Hari Rana,26,Male,Entrepreneur,1442487,Dhulikhel,9859453181,owner308@email.com,2023-05-13
+OWN0309,Deepak Magar,26,Female,Teacher,584171,Banepa,9846051162,owner309@email.com,2022-09-23
+OWN0310,Deepak Chaudhary,32,Female,IT Professional,3925585,Mechinagar,9837678543,owner310@email.com,2023-09-15
+OWN0311,Maya Thapa,27,Male,Doctor,545105,Nepalgunj,9865788418,owner311@email.com,2023-02-18
+OWN0312,Lakshmi Chaudhary,39,Female,Private Employee,1926468,Janakpur,9882556708,owner312@email.com,2024-08-24
+OWN0313,Sita Gurung,26,Female,Business Owner,1000563,Mechinagar,9880041873,owner313@email.com,2024-12-15
+OWN0314,Binod Magar,55,Female,Engineer,2266541,Mahendranagar,9885429162,owner314@email.com,2022-03-26
+OWN0315,Binod Sharma,56,Female,Teacher,4371922,Birtamod,9848605703,owner315@email.com,2022-09-20
+OWN0316,Maya Paudel,47,Male,Government Employee,3659219,Tikapur,9850588665,owner316@email.com,2024-08-01
+OWN0317,Hari Thapa,52,Male,Government Employee,3297644,Pokhara,9816213508,owner317@email.com,2022-10-04
+OWN0318,Shiva Khadka,35,Female,Entrepreneur,1827375,Beni,9871068629,owner318@email.com,2022-04-01
+OWN0319,Prakash Magar,36,Male,Government Employee,664146,Dhulikhel,9875076092,owner319@email.com,2022-02-07
+OWN0320,Krishna Gurung,49,Male,Doctor,3322558,Tulsipur,9883042457,owner320@email.com,2024-06-04
+OWN0321,Binod Tamang,40,Male,Teacher,4607584,Kathmandu,9846256507,owner321@email.com,2022-04-13
+OWN0322,Sunita Magar,43,Female,Business Owner,1624062,Waling,9820709004,owner322@email.com,2023-09-01
+OWN0323,Parvati Rana,46,Female,Entrepreneur,3132556,Damak,9816874012,owner323@email.com,2022-11-27
+OWN0324,Prakash Khadka,26,Male,Doctor,720540,Waling,9857659105,owner324@email.com,2022-01-03
+OWN0325,Saraswati Adhikari,51,Female,Private Employee,4808691,Attariya,9810313259,owner325@email.com,2022-12-07
+OWN0326,Shiva Khadka,55,Female,Engineer,2727357,Mechinagar,9885229470,owner326@email.com,2022-03-01
+OWN0327,Deepak Chaudhary,41,Male,Teacher,4044209,Madhyapur Thimi,9826649872,owner327@email.com,2024-11-14
+OWN0328,Ram Chaudhary,39,Female,IT Professional,663421,Rajbiraj,9865648725,owner328@email.com,2022-11-28
+OWN0329,Sunita Magar,54,Female,Business Owner,628176,Kirtipur,9847288220,owner329@email.com,2024-09-17
+OWN0330,Suman Chaudhary,32,Female,Entrepreneur,2773430,Baglung,9837209142,owner330@email.com,2024-05-28
+OWN0331,Sunita Sharma,59,Female,IT Professional,1321009,Panauti,9815336446,owner331@email.com,2023-08-22
+OWN0332,Parvati Shrestha,34,Male,Doctor,1090062,Kirtipur,9813080074,owner332@email.com,2022-06-23
+OWN0333,Ganesh Karki,29,Female,Business Owner,2872631,Waling,9819781475,owner333@email.com,2024-12-30
+OWN0334,Ganesh Thapa,46,Male,Entrepreneur,4056089,Gorkha,9890612637,owner334@email.com,2024-04-02
+OWN0335,Maya Sharma,26,Female,Entrepreneur,4216002,Kirtipur,9824098227,owner335@email.com,2022-12-30
+OWN0336,Ganesh Sharma,57,Male,Private Employee,3237735,Jaleshwor,9849844615,owner336@email.com,2024-05-28
+OWN0337,Krishna Rana,59,Female,Engineer,4756291,Tulsipur,9872476185,owner337@email.com,2024-07-02
+OWN0338,Suman Magar,39,Female,Government Employee,1089818,Butwal,9836502404,owner338@email.com,2023-01-10
+OWN0339,Saraswati Shrestha,39,Female,Teacher,1507553,Lalitpur,9816020723,owner339@email.com,2024-12-05
+OWN0340,Sita Gurung,34,Female,Private Employee,4582672,Gaur,9811519973,owner340@email.com,2022-11-19
+OWN0341,Suman Magar,55,Female,Doctor,3063869,Lamjung,9848450719,owner341@email.com,2024-08-03
+OWN0342,Deepak Magar,52,Male,IT Professional,607338,Bhaktapur,9899166394,owner342@email.com,2022-11-14
+OWN0343,Sunita Adhikari,59,Female,Doctor,3415150,Attariya,9891260335,owner343@email.com,2022-07-01
+OWN0344,Suman Shrestha,59,Male,Doctor,3991824,Tulsipur,9855099119,owner344@email.com,2022-01-01
+OWN0345,Binod Sharma,53,Male,Teacher,3177762,Lamjung,9874287259,owner345@email.com,2023-02-12
+OWN0346,Sunita Gurung,35,Female,Teacher,977893,Lahan,9899538003,owner346@email.com,2022-09-11
+OWN0347,Rajesh Adhikari,55,Female,Entrepreneur,3075703,Kapilvastu,9840130061,owner347@email.com,2023-12-26
+OWN0348,Saraswati Adhikari,59,Male,Engineer,1396906,Lalitpur,9863200126,owner348@email.com,2024-02-07
+OWN0349,Ganesh Magar,59,Female,Teacher,559910,Biratnagar,9811794888,owner349@email.com,2024-03-02
+OWN0350,Maya Gurung,54,Male,Private Employee,3361945,Gaur,9863453327,owner350@email.com,2022-08-11
+OWN0351,Deepak Gurung,36,Female,Private Employee,846717,Bharatpur,9810372088,owner351@email.com,2022-06-01
+OWN0352,Ram Adhikari,38,Male,Doctor,2982822,Biratnagar,9859431537,owner352@email.com,2023-04-20
+OWN0353,Binod Gurung,26,Male,Engineer,3966427,Birtamod,9879993914,owner353@email.com,2024-05-09
+OWN0354,Deepak Paudel,34,Male,Engineer,3827540,Lalitpur,9887432895,owner354@email.com,2023-03-23
+OWN0355,Binod Thapa,42,Female,Private Employee,3164580,Birgunj,9871285467,owner355@email.com,2024-02-23
+OWN0356,Shiva Paudel,42,Female,Business Owner,887806,Gaur,9894437109,owner356@email.com,2024-04-10
+OWN0357,Parvati Rana,41,Female,Teacher,3351018,Attariya,9867351687,owner357@email.com,2022-04-09
+OWN0358,Rajesh Sharma,40,Female,Doctor,3879258,Attariya,9874954628,owner358@email.com,2023-10-29
+OWN0359,Shiva Magar,44,Male,Government Employee,1125981,Tulsipur,9835023684,owner359@email.com,2024-03-07
+OWN0360,Anita Khadka,55,Female,Business Owner,2763624,Itahari,9860023848,owner360@email.com,2023-05-01
+OWN0361,Saraswati Khadka,45,Female,Government Employee,939271,Gaur,9823993906,owner361@email.com,2023-01-05
+OWN0362,Lakshmi Sharma,48,Female,Entrepreneur,2230691,Attariya,9838596755,owner362@email.com,2024-12-22
+OWN0363,Anita Tamang,47,Female,Entrepreneur,1292967,Waling,9897807510,owner363@email.com,2022-08-12
+OWN0364,Sita Adhikari,58,Male,Engineer,2822491,Tansen,9832800521,owner364@email.com,2024-07-18
+OWN0365,Krishna Adhikari,49,Male,Business Owner,3619361,Kapilvastu,9869862792,owner365@email.com,2022-07-13
+OWN0366,Sunita Tamang,44,Male,Business Owner,1744407,Dailekh,9890091932,owner366@email.com,2023-08-25
+OWN0367,Sunita Tamang,47,Male,Teacher,2026835,Kapilvastu,9848431744,owner367@email.com,2023-11-08
+OWN0368,Ram Adhikari,26,Male,Doctor,2329047,Tansen,9828653676,owner368@email.com,2022-08-07
+OWN0369,Sunita Magar,29,Male,Doctor,1584033,Tikapur,9831909505,owner369@email.com,2023-04-30
+OWN0370,Binod Tamang,27,Male,Private Employee,4491722,Kapilvastu,9845203543,owner370@email.com,2022-05-09
+OWN0371,Prakash Shrestha,39,Female,Business Owner,4467241,Pokhara,9868567305,owner371@email.com,2023-01-01
+OWN0372,Suman Khadka,52,Female,Entrepreneur,2319498,Lalitpur,9880417533,owner372@email.com,2024-11-11
+OWN0373,Anita Paudel,37,Female,Entrepreneur,3671236,Rajbiraj,9860728012,owner373@email.com,2023-03-28
+OWN0374,Shiva Tamang,40,Male,Private Employee,4469361,Madhyapur Thimi,9865132989,owner374@email.com,2024-02-07
+OWN0375,Suman Gurung,38,Female,Government Employee,2393478,Hetauda,9853201303,owner375@email.com,2022-04-01
+OWN0376,Maya Paudel,55,Female,Private Employee,4320415,Itahari,9849011430,owner376@email.com,2024-02-09
+OWN0377,Ram Karki,52,Female,Engineer,1736925,Dhulikhel,9890398992,owner377@email.com,2023-02-03
+OWN0378,Sunita Rana,45,Male,IT Professional,3345433,Nepalgunj,9858777291,owner378@email.com,2022-11-17
+OWN0379,Shiva Sharma,29,Female,Doctor,1351315,Banepa,9868963825,owner379@email.com,2024-01-01
+OWN0380,Hari Rana,39,Female,Private Employee,2895672,Panauti,9833885254,owner380@email.com,2022-09-09
+OWN0381,Sunita Magar,54,Male,Private Employee,758391,Lalitpur,9887170587,owner381@email.com,2023-10-22
+OWN0382,Ganesh Khadka,37,Male,Doctor,2115052,Jaleshwor,9887831775,owner382@email.com,2023-04-27
+OWN0383,Anita Magar,25,Female,IT Professional,1486297,Mahendranagar,9879125501,owner383@email.com,2023-04-29
+OWN0384,Parvati Adhikari,47,Female,Doctor,1568612,Mahendranagar,9839798306,owner384@email.com,2023-12-07
+OWN0385,Lakshmi Karki,28,Female,Business Owner,914837,Jaleshwor,9852525565,owner385@email.com,2022-07-22
+OWN0386,Rajesh Sharma,53,Female,Teacher,3312403,Butwal,9864588934,owner386@email.com,2023-10-18
+OWN0387,Prakash Chaudhary,46,Male,Teacher,4617600,Birendranagar,9868169024,owner387@email.com,2023-07-06
+OWN0388,Lakshmi Rana,43,Male,Doctor,2211009,Itahari,9859551711,owner388@email.com,2024-09-10
+OWN0389,Ram Tamang,36,Male,Business Owner,2671581,Jumla,9855950831,owner389@email.com,2023-08-22
+OWN0390,Rajesh Tamang,51,Female,Business Owner,1360857,Lamjung,9811446880,owner390@email.com,2023-04-24
+OWN0391,Ganesh Paudel,51,Female,Engineer,4644945,Banepa,9861780791,owner391@email.com,2022-02-16
+OWN0392,Anita Khadka,46,Female,Teacher,4304926,Bhaktapur,9877818237,owner392@email.com,2023-10-22
+OWN0393,Durga Sharma,50,Female,Teacher,3918652,Nepalgunj,9852443215,owner393@email.com,2024-05-05
+OWN0394,Durga Magar,26,Male,Business Owner,3596012,Bhairahawa,9876734281,owner394@email.com,2023-07-18
+OWN0395,Krishna Magar,53,Male,Entrepreneur,4760528,Dailekh,9835976087,owner395@email.com,2024-08-30
+OWN0396,Ganesh Magar,34,Female,Government Employee,4774307,Jumla,9867725078,owner396@email.com,2023-09-18
+OWN0397,Rajesh Thapa,49,Female,Private Employee,2271595,Mahendranagar,9848274413,owner397@email.com,2023-03-14
+OWN0398,Rajesh Paudel,52,Male,Business Owner,3719209,Butwal,9879987814,owner398@email.com,2022-12-03
+OWN0399,Lakshmi Paudel,29,Male,Business Owner,2131592,Hetauda,9815310760,owner399@email.com,2024-01-19
+OWN0400,Suman Rana,50,Male,Business Owner,1175092,Kirtipur,9838818051,owner400@email.com,2023-01-14
+OWN0401,Suman Magar,47,Male,Doctor,4387023,Panauti,9853085048,owner401@email.com,2023-07-24
+OWN0402,Saraswati Sharma,40,Male,Entrepreneur,3049267,Damak,9882351487,owner402@email.com,2023-08-23
+OWN0403,Saraswati Sharma,60,Female,Business Owner,2650533,Waling,9815887310,owner403@email.com,2022-07-20
+OWN0404,Shiva Tamang,42,Female,Engineer,785088,Baglung,9889536596,owner404@email.com,2024-06-01
+OWN0405,Saraswati Sharma,52,Male,Engineer,4166073,Gaur,9882883289,owner405@email.com,2022-07-26
+OWN0406,Saraswati Gurung,29,Male,Entrepreneur,4279455,Dharan,9896166333,owner406@email.com,2024-12-17
+OWN0407,Suman Gurung,50,Female,IT Professional,2750589,Lahan,9828016952,owner407@email.com,2022-03-20
+OWN0408,Ganesh Paudel,28,Female,Business Owner,500237,Jumla,9863509222,owner408@email.com,2022-02-08
+OWN0409,Sunita Gurung,47,Male,Engineer,855188,Bhaktapur,9857761250,owner409@email.com,2023-09-26
+OWN0410,Lakshmi Rana,35,Male,Government Employee,3662149,Jaleshwor,9811291518,owner410@email.com,2022-03-08
+OWN0411,Sita Adhikari,39,Female,Teacher,3433790,Gaur,9845402483,owner411@email.com,2023-04-30
+OWN0412,Parvati Gurung,54,Female,Entrepreneur,3245189,Bhairahawa,9892348455,owner412@email.com,2023-09-06
+OWN0413,Ganesh Sharma,39,Male,IT Professional,4950009,Mahendranagar,9824405769,owner413@email.com,2022-08-08
+OWN0414,Hari Gurung,42,Female,Entrepreneur,3800737,Tansen,9864977269,owner414@email.com,2022-01-05
+OWN0415,Ram Paudel,39,Male,Teacher,4789713,Biratnagar,9893689983,owner415@email.com,2023-06-05
+OWN0416,Sunita Thapa,27,Male,Doctor,4202575,Waling,9897238427,owner416@email.com,2022-08-15
+OWN0417,Sunita Adhikari,48,Female,Doctor,2944109,Birgunj,9826433147,owner417@email.com,2023-02-06
+OWN0418,Maya Gurung,60,Male,Government Employee,4611209,Gorkha,9857218681,owner418@email.com,2024-04-20
+OWN0419,Sita Tamang,32,Male,Government Employee,989046,Mechinagar,9873537945,owner419@email.com,2022-08-15
+OWN0420,Anita Khadka,38,Male,Teacher,4069257,Mahendranagar,9890978867,owner420@email.com,2024-02-29
+OWN0421,Suman Tamang,47,Male,Private Employee,2300498,Lahan,9814927497,owner421@email.com,2023-04-15
+OWN0422,Saraswati Chaudhary,37,Male,Government Employee,2974847,Rajbiraj,9842122441,owner422@email.com,2022-03-07
+OWN0423,Rajesh Sharma,59,Male,Doctor,2254911,Birendranagar,9846640078,owner423@email.com,2023-11-30
+OWN0424,Rajesh Adhikari,37,Male,Government Employee,3645305,Itahari,9894679708,owner424@email.com,2023-04-12
+OWN0425,Lakshmi Khadka,57,Female,Private Employee,2404940,Tulsipur,9857819753,owner425@email.com,2023-04-15
+OWN0426,Sunita Gurung,50,Male,Doctor,1231011,Rajbiraj,9836092858,owner426@email.com,2023-02-15
+OWN0427,Deepak Sharma,54,Male,Business Owner,2428734,Lamjung,9896420275,owner427@email.com,2024-08-22
+OWN0428,Shiva Magar,44,Male,Doctor,4555854,Bharatpur,9872332461,owner428@email.com,2023-02-24
+OWN0429,Ganesh Chaudhary,40,Male,Business Owner,4609162,Attariya,9885033909,owner429@email.com,2023-03-08
+OWN0430,Lakshmi Gurung,46,Female,Entrepreneur,4504083,Mechinagar,9824701132,owner430@email.com,2024-02-17
+OWN0431,Ganesh Khadka,25,Female,Teacher,4188582,Lahan,9860487879,owner431@email.com,2023-11-23
+OWN0432,Suman Sharma,33,Female,IT Professional,868369,Biratnagar,9886178308,owner432@email.com,2023-11-04
+OWN0433,Rajesh Rana,45,Female,Entrepreneur,3795157,Kapilvastu,9820243872,owner433@email.com,2024-06-14
+OWN0434,Sunita Tamang,39,Male,Business Owner,3799726,Itahari,9879599704,owner434@email.com,2024-08-19
+OWN0435,Deepak Karki,35,Female,IT Professional,4698487,Birendranagar,9870208731,owner435@email.com,2022-12-16
+OWN0436,Shiva Adhikari,35,Female,IT Professional,2975214,Lalitpur,9866181911,owner436@email.com,2022-06-12
+OWN0437,Saraswati Adhikari,29,Female,Private Employee,715537,Janakpur,9825636835,owner437@email.com,2023-10-12
+OWN0438,Ganesh Adhikari,41,Male,Doctor,2199692,Nepalgunj,9893605912,owner438@email.com,2022-12-14
+OWN0439,Ganesh Gurung,52,Female,IT Professional,4394657,Lamjung,9899066335,owner439@email.com,2023-01-25
+OWN0440,Hari Rana,30,Male,Business Owner,3138751,Rajbiraj,9883039283,owner440@email.com,2022-09-09
+OWN0441,Sita Sharma,27,Female,Teacher,2199012,Tansen,9893941823,owner441@email.com,2022-05-09
+OWN0442,Lakshmi Rana,31,Female,Business Owner,4801975,Dhangadhi,9876410878,owner442@email.com,2023-07-13
+OWN0443,Sita Tamang,36,Female,IT Professional,4954125,Lahan,9851183379,owner443@email.com,2024-02-16
+OWN0444,Binod Sharma,55,Male,Doctor,2794145,Kathmandu,9892435989,owner444@email.com,2022-02-13
+OWN0445,Durga Paudel,37,Female,Business Owner,1474869,Waling,9890767862,owner445@email.com,2022-09-30
+OWN0446,Deepak Khadka,40,Female,Doctor,2601003,Butwal,9819993971,owner446@email.com,2022-02-04
+OWN0447,Sunita Tamang,34,Female,Entrepreneur,2489351,Damak,9832098038,owner447@email.com,2022-07-19
+OWN0448,Deepak Chaudhary,59,Male,Doctor,1995183,Banepa,9866452398,owner448@email.com,2024-05-10
+OWN0449,Durga Adhikari,54,Female,Engineer,755342,Pokhara,9844855877,owner449@email.com,2024-04-03
+OWN0450,Rajesh Sharma,41,Male,Engineer,1649547,Lamjung,9860309548,owner450@email.com,2024-11-02
+OWN0451,Maya Khadka,26,Male,Doctor,3962829,Pokhara,9879386267,owner451@email.com,2024-02-24
+OWN0452,Hari Rana,56,Male,Private Employee,1423419,Pokhara,9873969496,owner452@email.com,2022-06-05
+OWN0453,Binod Gurung,41,Female,Government Employee,4418640,Madhyapur Thimi,9849352789,owner453@email.com,2022-08-07
+OWN0454,Anita Karki,36,Male,Teacher,4162955,Gaur,9871310611,owner454@email.com,2023-12-22
+OWN0455,Prakash Thapa,41,Female,Private Employee,4837387,Tulsipur,9835678667,owner455@email.com,2023-11-28
+OWN0456,Ganesh Adhikari,51,Male,IT Professional,1807827,Butwal,9826836515,owner456@email.com,2023-12-24
+OWN0457,Prakash Sharma,40,Female,Business Owner,4971502,Panauti,9865243028,owner457@email.com,2023-12-14
+OWN0458,Shiva Shrestha,33,Female,Entrepreneur,1311425,Biratnagar,9844604679,owner458@email.com,2024-08-01
+OWN0459,Hari Thapa,33,Male,IT Professional,845983,Bhaktapur,9882903033,owner459@email.com,2023-11-13
+OWN0460,Prakash Tamang,40,Male,Entrepreneur,2019654,Biratnagar,9860438332,owner460@email.com,2023-08-26
+OWN0461,Lakshmi Shrestha,52,Male,Engineer,4283720,Tulsipur,9819753631,owner461@email.com,2024-06-17
+OWN0462,Hari Chaudhary,53,Male,Doctor,4379313,Mechinagar,9831791058,owner462@email.com,2024-09-22
+OWN0463,Shiva Rana,44,Female,Government Employee,2798922,Gorkha,9895097606,owner463@email.com,2023-10-24
+OWN0464,Sita Khadka,53,Male,Private Employee,4289784,Rajbiraj,9859412362,owner464@email.com,2024-10-16
+OWN0465,Lakshmi Magar,38,Male,Doctor,1740475,Nepalgunj,9811290041,owner465@email.com,2023-11-06
+OWN0466,Ganesh Paudel,56,Female,Doctor,4558263,Mahendranagar,9839984668,owner466@email.com,2023-11-05
+OWN0467,Parvati Gurung,30,Male,Business Owner,4873535,Nepalgunj,9866059699,owner467@email.com,2022-02-18
+OWN0468,Durga Gurung,45,Male,Doctor,2567129,Birtamod,9896462780,owner468@email.com,2023-05-20
+OWN0469,Hari Magar,27,Male,IT Professional,1405060,Bhaktapur,9816440697,owner469@email.com,2023-05-17
+OWN0470,Deepak Chaudhary,53,Male,Private Employee,3579607,Kathmandu,9838778647,owner470@email.com,2023-05-20
+OWN0471,Sita Rana,32,Male,IT Professional,2562436,Bhairahawa,9846652598,owner471@email.com,2023-09-16
+OWN0472,Sunita Sharma,60,Female,Private Employee,3164434,Birendranagar,9883596812,owner472@email.com,2022-07-06
+OWN0473,Shiva Adhikari,52,Female,IT Professional,1642804,Pokhara,9829361631,owner473@email.com,2023-01-21
+OWN0474,Ganesh Tamang,27,Female,IT Professional,3388923,Tansen,9837177876,owner474@email.com,2024-04-23
+OWN0475,Ram Khadka,38,Female,Private Employee,4537646,Dailekh,9866006153,owner475@email.com,2023-06-28
+OWN0476,Prakash Magar,36,Male,Doctor,3691349,Dharan,9819607100,owner476@email.com,2023-05-28
+OWN0477,Ram Adhikari,53,Male,Entrepreneur,628890,Gaur,9812272214,owner477@email.com,2022-11-02
+OWN0478,Hari Magar,42,Male,Business Owner,3544594,Birgunj,9877824033,owner478@email.com,2022-04-30
+OWN0479,Prakash Thapa,60,Male,Private Employee,2199866,Bhaktapur,9826340458,owner479@email.com,2023-11-27
+OWN0480,Anita Thapa,49,Male,Government Employee,4922942,Mechinagar,9872801337,owner480@email.com,2022-11-06
+OWN0481,Durga Sharma,48,Female,Doctor,4216292,Gorkha,9863352916,owner481@email.com,2022-08-10
+OWN0482,Parvati Chaudhary,56,Male,Doctor,1245592,Gorkha,9842900176,owner482@email.com,2023-10-22
+OWN0483,Parvati Thapa,42,Male,IT Professional,4100718,Dailekh,9886440773,owner483@email.com,2022-04-27
+OWN0484,Deepak Adhikari,35,Male,Entrepreneur,1407149,Kathmandu,9849397985,owner484@email.com,2024-08-22
+OWN0485,Sita Gurung,47,Male,Teacher,3255333,Lahan,9882319226,owner485@email.com,2024-10-27
+OWN0486,Sunita Khadka,44,Female,Doctor,1436979,Jumla,9834818521,owner486@email.com,2023-08-06
+OWN0487,Rajesh Khadka,44,Female,Doctor,3867743,Bhairahawa,9863691842,owner487@email.com,2023-02-20
+OWN0488,Durga Adhikari,28,Female,Government Employee,1306890,Kapilvastu,9890257115,owner488@email.com,2022-07-30
+OWN0489,Saraswati Shrestha,31,Male,Entrepreneur,577872,Panauti,9825602542,owner489@email.com,2022-10-23
+OWN0490,Rajesh Thapa,36,Male,Engineer,2938620,Hetauda,9868067416,owner490@email.com,2022-04-26
+OWN0491,Durga Paudel,56,Male,Doctor,1852293,Jaleshwor,9828937669,owner491@email.com,2024-10-27
+OWN0492,Ram Tamang,59,Female,Doctor,4772580,Butwal,9879065695,owner492@email.com,2022-10-31
+OWN0493,Krishna Rana,57,Female,Government Employee,3028412,Tulsipur,9851913413,owner493@email.com,2023-11-20
+OWN0494,Hari Sharma,33,Female,Teacher,2184072,Bhaktapur,9824158168,owner494@email.com,2023-02-19
+OWN0495,Ram Thapa,44,Male,Private Employee,713034,Biratnagar,9839730511,owner495@email.com,2024-02-06
+OWN0496,Sita Adhikari,60,Male,Doctor,2014385,Nepalgunj,9827989577,owner496@email.com,2022-01-21
+OWN0497,Suman Thapa,25,Male,Private Employee,2633691,Tulsipur,9810232412,owner497@email.com,2022-04-13
+OWN0498,Sunita Adhikari,48,Male,Government Employee,2154999,Rajbiraj,9815429904,owner498@email.com,2024-10-22
+OWN0499,Sunita Paudel,31,Male,Business Owner,1670221,Madhyapur Thimi,9821298287,owner499@email.com,2022-06-13
+OWN0500,Maya Shrestha,32,Female,Entrepreneur,1101889,Bhaktapur,9837056389,owner500@email.com,2023-09-17
